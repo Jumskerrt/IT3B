@@ -1,4 +1,3 @@
-
 <?php 
  
 function loginUser($pdo, $login, $password) 
